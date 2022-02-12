@@ -1,0 +1,15 @@
+.flat__container {
+	flex: 1;
+	background-color: rgb(76, 187, 32);
+}
+
+.flat__header {
+	font-family: 'Roboto Serif', sans-serif;
+	font-size: 24px;
+  background-color: rgb(76, 187, 32);
+  text-align: center;
+}
+
+.flat__body {
+	background-color: rgb(14, 70, 70);
+}

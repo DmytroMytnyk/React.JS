@@ -1,0 +1,16 @@
+.house__container {
+	flex: 1;
+}
+
+.house__header {
+ background-color: aqua;
+}
+
+.house__deck {
+	display: flex;
+}
+
+
+.house__body {
+	background-color: rgb(14, 70, 70);
+}
