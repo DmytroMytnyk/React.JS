@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Lucida Sans', Geneva, sans-serif;
+  text-align: center;
+}
+
+.post {
+  display: flex;
+  width: 1200px;
+  justify-content: space-between;
+  margin: 50px;
+  text-align: left;
+}
+
